@@ -1,3 +1,7 @@
+package ru.netology.bonus;
+
+import ru.netology.bonus.BonusService;
+
 class Main {
     public static void main(String[] args) {
        BonusService service = new BonusService();
